@@ -27,4 +27,4 @@ These questions summarize the debugging topics discussed, rather than reproduce 
 
 ## Disclosure
 
-AI inspected the files, ran the checker, explained the errors, and suggested specific code changes. AI also helped prepare these notes.
+AI explained the errors, and suggested specific code changes.
